@@ -10,12 +10,12 @@
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "https://dimboo-development.s3.eu-south-2.amazonaws.com/logo-192x192.png",
+      "src": "/logo-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://dimboo-development.s3.eu-south-2.amazonaws.com/logo-512x512.png",
+      "src": "/logo-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
