@@ -1,28 +1,23 @@
 {
-  "name": "Push Notification",
-  "short_name": "PN",
-  "start_url": "https://react-pwa-push.netlify.app/",
+  "title": "Dimboo",
+  "short_name": "Dimboo",
+  "start_url": "https://react-pwa-push.netlify.app",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#000000",
+  "background_color": "rgb(247 247 248)",
+  "lang": "en",
+  "scope": "https://react-pwa-push.netlify.app",
+  "description": "A Dimboo PWA.",
+  "theme_color": "#ffffff",
   "icons": [
     {
       "src": "https://dimboo-development.s3.eu-south-2.amazonaws.com/logo-192x192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
+      "type": "image/png"
     },
     {
       "src": "https://dimboo-development.s3.eu-south-2.amazonaws.com/logo-512x512.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "/logo-144x144.png",
-      "sizes": "144x144",
-      "type": "image/png",
-      "purpose": "any"
+      "type": "image/png"
     }
   ]
 }
