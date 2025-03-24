@@ -1,7 +1,7 @@
 {
   "name": "Push Notification",
   "short_name": "PN",
-  "start_url": "/",
+  "start_url": "https://react-pwa-push.netlify.app/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
